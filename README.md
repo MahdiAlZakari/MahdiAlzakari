@@ -11,9 +11,6 @@ I'm a Computer Science student specializing in app development with Flutter and 
 * 🤝 I’m eager to collaborate on innovative projects at the intersection of AI and app development. If you're on a similar journey, let’s connect!
 * ⚡  Fun fact: Besides coding, I'm a tea connoisseur, always on the lookout for the perfect blend!
 
-<a href="https://www.x.com//mahdialzakari" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow//mahdialzakari?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
 
 ### Skills
 
